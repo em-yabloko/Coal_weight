@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VesLent101", "Bars1\VesLent101.csproj", "{4D110E7F-5C98-4E63-9F50-EA895D9F8FB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D110E7F-5C98-4E63-9F50-EA895D9F8FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D110E7F-5C98-4E63-9F50-EA895D9F8FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D110E7F-5C98-4E63-9F50-EA895D9F8FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D110E7F-5C98-4E63-9F50-EA895D9F8FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47ABAB8A-05FA-455B-BB8B-CF1D9D033CD5}
+	EndGlobalSection
+EndGlobal
